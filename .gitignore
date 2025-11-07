@@ -1,0 +1,18 @@
+# Dart/Flutter related
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.packages
+*.iml
+
+# Build output
+build/
+.idea/
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Crash Reports
+crash_reports/
